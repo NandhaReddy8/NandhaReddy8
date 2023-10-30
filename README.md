@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning Ethical Hacking
 - 💞️ I’m looking to collaborate on business models
-- 📫 How to reach me nandhareddy.05@gmail.com
+- 📫 How to reach me narendravarikuti.2003@gmail.com
 
 <!---
 NandhaReddy8/NandhaReddy8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
