@@ -1,5 +1,4 @@
 <!-- Banner -->
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" />
 
 <h1 align="center">🚀 Hey, I'm <b>Narendra Reddy</b></h1>
 <h3 align="center">🔐 Security Analyst | DevSecOps | Infrastructure & Application Security | Ethical Hacker</h3>
@@ -80,5 +79,5 @@ If you're working on cybersecurity tooling, DevSecOps automation, VPN/firewall d
 
 <p align="center"><b>“Security is a journey — automation is the vehicle.”</b></p>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+<img src="[https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif](https://imgs.search.brave.com/FcxU-z0k4_bQYDbNojjjhEryfs3zru3nIfK3mYWrZkY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhPRGs1Tm5NeWEz/UnRZbTlwWkhaMVpu/RjVhek5oZW5kMlpt/OHdZM05qYzNKbGJY/UjVOWHBtZVNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vRFN4S0VRb1Fp/eDloQy8yMDAuZ2lm.gif)" width="50%" />
 
