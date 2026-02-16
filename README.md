@@ -61,7 +61,10 @@ I love automating deployments, building secure CI/CD pipelines, and solving real
 <a href="https://github.com/NandhaReddy8"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3457931" style='border:none;'></iframe>
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/NandhaReddy8.png" alt="TryHackMe Badge" />
+</p>
+
 ---
 
 ### 🤝 Let’s Collaborate
