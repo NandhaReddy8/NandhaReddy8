@@ -62,8 +62,8 @@ I love automating deployments, building secure CI/CD pipelines, and solving real
 </p>
 
 <p align="center">
-  <a href="https://tryhackme.com/p/NandhaReddy8">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/NandhaReddy8.png" alt="TryHackMe Badge">
+  <a href="https://tryhackme.com/p/R3DN05E">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/R3DN05E.png" alt="TryHackMe Badge">
   </a>
 </p>
 
